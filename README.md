@@ -9,7 +9,7 @@ bash <(wget --no-check-certificate -qO- https://github.com/FsHtroy/lotServer/raw
 
 ### 指定内核安装
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/FsHtroy/lotServer/raw/master/Install.sh) install <Kernel Version>
+bash <(wget --no-check-certificate -qO- https://github.com/FsHtroy/lotServer/raw/master/Install.sh) install 3.10.0-957.el7.x86_64
 ```
 
 ## 完全卸载
